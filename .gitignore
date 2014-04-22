@@ -1,0 +1,8 @@
+asm/test
+c/test
+Gemfile.lock
+*.o
+*.a
+*.sqlite
+*.sqlite3
+*.db

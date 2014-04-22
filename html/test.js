@@ -1,0 +1,4 @@
+var Test = {
+  test: function() {
+  }
+};

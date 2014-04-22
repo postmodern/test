@@ -1,5 +1,6 @@
 asm/test
 c/test
+java/Test.class
 Gemfile.lock
 *.o
 *.a

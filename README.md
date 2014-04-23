@@ -24,6 +24,7 @@ Supports
   * [Makefile](shell/Makefile)
   * [Bash](shell/bash)
   * [ZSH](shell/zsh)
+* [XSLT](xslt)
 
 Missing
 =======

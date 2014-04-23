@@ -5,6 +5,7 @@ java/Test.class
 Gemfile.lock
 *.o
 *.a
+*.class
 *.sqlite
 *.sqlite3
 *.db

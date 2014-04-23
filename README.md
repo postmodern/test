@@ -9,6 +9,7 @@ Supports:
 * [Assembly](asm)
 * [C](c) / [C++](cpp)
 * [Java](java)
+  * [Applet](java/applet)
 * [HTML / CSS / JavaScript](html)
 * [Ruby](ruby)
   * [Bundler](ruby/bundler)

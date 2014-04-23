@@ -2,6 +2,7 @@ asm/test
 c/test
 cpp/test
 java/Test.class
+rust/test
 xslt/output.html
 Gemfile.lock
 *.o

@@ -21,6 +21,7 @@ Supports
   * [Sinatra](ruby/sinatra)
   * [Padrino](ruby/padrino)
   * [Rails](ruby/rails)
+* [Rust](rust)
 * [Shell](shell)
   * [Makefile](shell/Makefile)
   * [Bash](shell/bash)
@@ -40,5 +41,4 @@ Missing
 * Perl
 * PHP
 * Python
-* Rust
 * Scala

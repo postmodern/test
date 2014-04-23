@@ -28,6 +28,7 @@ Supports
 Missing
 =======
 
+* ActionScript
 * C# / Mono
 * Erlang
 * Golang

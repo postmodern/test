@@ -35,5 +35,8 @@ Missing
 * Haskell
 * [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
 * OCaml
+* Perl
+* PHP
+* Python
 * Rust
 * Scala

@@ -4,37 +4,25 @@
   <xsl:output method="xml" version="1.0" encoding="UTF-8" doctype-public="-//W3C//DTD XHTML 1.1//EN" doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" indent="yes" />
 
   <!-- Document template -->
-  <xsl:template match="/sophweb">
+  <xsl:template match="/document">
     <html>
-      <xsl:call-template name="header" />
-
       <body>
-        <xsl:call-template name="banner" />
-
-        <xsl:apply-templates select="page" />
-
-        <xsl:call-template name="footer" />
+        <xsl:apply-templates select="node" />
       </body>
     </html>
   </xsl:template>
 
-  <!-- Header shortcut templates -->
-  <xsl:template match="/sophweb/title">
-    <title>SophSec :: <xsl:value-of select="." /></title>
-  </xsl:template>
+  <xsl:template match="/document/node">
+    <div>
+      <h3>Node</h3>
 
-  <!-- Page template -->
-  <xsl:template match="/sophweb/page">
-    <div id="page">
-      <xsl:apply-templates />
+      <xsl:apply-templates select="@attr" />
+      <p>Text: <xsl:value-of select="." /></p>
     </div>
   </xsl:template>
 
-  <!-- Content template -->
-  <xsl:template match="/sophweb/page/content">
-    <div id="content">
-      <xsl:apply-templates />
-    </div>
+  <xsl:template match="/document/node/@attr">
+    <p>Attr: <xsl:value-of select="." /></p>
   </xsl:template>
 
 </xsl:stylesheet>

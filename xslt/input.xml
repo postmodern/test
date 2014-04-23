@@ -1,8 +1,5 @@
 <?xml version="1.0"?>
 <document>
-  <node attr="foo">
-  </node>
-
-  <node attr="bar">
-  </node>
+  <node attr="foo">Foo</node>
+  <node attr="bar">Bar</node>
 </document>

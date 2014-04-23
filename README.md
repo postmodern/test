@@ -12,6 +12,7 @@ Supports
 * [Java](java)
   * [Applet](java/applet)
 * [HTML / CSS / JavaScript](html)
+* [Node.js](node)
 * [Ruby](ruby)
   * [Bundler](ruby/bundler)
   * [Rakefile](ruby/Rakefile)

@@ -1,9 +1,13 @@
-PREFIX?=/usr/local
+# Variable with a default:
+#
+# PREFIX?=/usr/local
 
 test:
 	echo 'test'
 
-%.o: %.c
-	$(CC) $(CFLAGS) -c $< -o $@
-
 .PHONY: test
+
+# Generic rule:
+#
+# %.o: %.c
+# 	$(CC) $(CFLAGS) -c $< -o $@

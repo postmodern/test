@@ -1,20 +1,26 @@
+# Task with arguments:
+#
+# task :test_args, [:foo, :bar] do |t,args|
+#   puts "arguments: #{args.inspect}"
+# end
+
+# File task:
+#
+# file 'test.txt' do
+#   File.open('foo.txt','w') do |file|
+#     file.puts 'hello'
+#   end
+# end
+
+# Generic rule:
+#
+# rule '.o' => '.c' do |t|
+#   sh "cc -o #{t.name} #{t.source}"
+# end
+
 desc 'Test task'
 task :test do
   puts 'test'
-end
-
-task :test_args, [:foo, :bar] do |t,args|
-  puts "arguments: #{args.inspect}"
-end
-
-file 'test.txt' do
-  File.open('foo.txt','w') do |file|
-    file.puts 'hello'
-  end
-end
-
-rule '.o' => '.c' do |t|
-  sh "cc -o #{t.name} #{t.source}"
 end
 
 task :default => :test

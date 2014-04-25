@@ -1,2 +1,6 @@
-module Test
+class Test
+
+  def test
+  end
+
 end

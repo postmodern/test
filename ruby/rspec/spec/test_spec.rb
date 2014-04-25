@@ -1,7 +1,9 @@
 require 'spec_helper'
 
 describe Test do
-  it "should test" do
-    expect(subject).to be == subject
+  describe "#test" do
+    it "should test" do
+      expect(subject.test).to be_nil
+    end
   end
 end

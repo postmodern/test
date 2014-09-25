@@ -1,4 +1,4 @@
-App.controllers :test do
+Test::App.controllers :test do
   
   # get :index, :map => '/foo/bar' do
   #   session[:foo] = 'bar'

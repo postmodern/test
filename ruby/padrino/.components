@@ -5,4 +5,5 @@
 :script: none
 :renderer: erb
 :stylesheet: none
+:namespace: Test
 :migration_format: number

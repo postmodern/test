@@ -1,10 +1,10 @@
 begin
   require 'rspec/core/rake_task'
 
-	spec_tasks = Dir['spec/*/'].inject([]) do |result, d|
-	  result << File.basename(d) unless Dir["#{d}*"].empty?
-	  result
-	end
+  spec_tasks = Dir['spec/*/'].inject([]) do |result, d|
+    result << File.basename(d) unless Dir["#{d}*"].empty?
+    result
+  end
 
   spec_tasks.each do |folder|
     RSpec::Core::RakeTask.new("spec:#{folder}") do |t|

@@ -27,10 +27,10 @@
 #
 Padrino.configure_apps do
   # enable :sessions
-  set :session_secret, '2bd8498dcd5f0959da10277328f9128d6863ada352ff63456e9e0ce2c715edc3'
+  set :session_secret, 'c414d42d7fe980eec13f39b864545566b8556ede7e14f93b3af569fd346abc70'
   set :protection, :except => :path_traversal
   set :protect_from_csrf, true
 end
 
 # Mounts the core application for this project
-Padrino.mount('App', :app_file => Padrino.root('app/app.rb')).to('/')
+Padrino.mount('Test::App', :app_file => Padrino.root('app/app.rb')).to('/')

@@ -19,5 +19,8 @@ Test::App.controllers :test do
   #   'Hello world!'
   # end
   
+  get :index do
+    render 'test/index'
+  end
 
 end

@@ -1,10 +1,10 @@
-asm/test
-c/test
-cpp/test
-java/Test.class
-ruby/gem/pkg
-rust/test
-xslt/output.html
+/asm/test
+/c/test
+/cpp/test
+/java/Test.class
+/ruby/gem/pkg
+/rust/test
+/xslt/output.html
 Gemfile.lock
 *.o
 *.a

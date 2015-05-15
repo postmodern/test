@@ -2,7 +2,7 @@ use std::*;
 
 fn main()
 {
-	let args: ~[~str] = os::args();
+	let args: env::Args = env::args();
 
-	println("test");
+	println!("test");
 }

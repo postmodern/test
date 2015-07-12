@@ -8,6 +8,9 @@
 Gemfile.lock
 *.o
 *.a
+*.elf
+*.hex
+*.map
 *.class
 *.sqlite
 *.sqlite3

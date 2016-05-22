@@ -4,6 +4,8 @@
 /java/Test.class
 /ruby/gem/pkg
 /rust/test
+/rust/crate/Cargo.lock
+/rust/crate/target
 /xslt/output.html
 Gemfile.lock
 *.o

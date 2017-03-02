@@ -42,3 +42,11 @@ Missing
 * PHP
 * Python
 * Scala
+
+Contribute
+==========
+
+1. Create an appropriately named directory.
+2. Add a build file (Makefiles preferred) if language is compiled.
+3. Add a program named test. It must print the word "test" and exit. May include
+   other common boilerplate code.

@@ -1,6 +1,7 @@
 AS=as
 LD=ld
 DEBUG=-ggdb
+GDB=gdb
 
 test: test.o
 	$(LD) test.o -o test
@@ -11,4 +12,7 @@ test.o: test.s
 clean:
 	rm -rf test.o test
 
-.PHONY: clean
+debug: test
+	$(GDB) test
+
+.PHONY: clean debug

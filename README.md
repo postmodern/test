@@ -10,6 +10,7 @@ Supports
 * [Assembly](asm)
 * [C](c) / [C++](cpp)
 * [Crystal][crystal]
+* [Go][go]
 * [Java](java)
   * [Applet](java/applet)
 * [HTML / CSS / JavaScript](html)
@@ -35,7 +36,6 @@ Missing
 * ActionScript
 * C# / Mono
 * Erlang
-* Golang
 * Haskell
 * [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
 * OCaml

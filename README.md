@@ -9,6 +9,7 @@ Supports
 
 * [Assembly](asm)
 * [C](c) / [C++](cpp)
+* [Crystal][crystal]
 * [Java](java)
   * [Applet](java/applet)
 * [HTML / CSS / JavaScript](html)

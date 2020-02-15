@@ -15,6 +15,7 @@ Supports
   * [Applet](java/applet)
 * [HTML / CSS / JavaScript](html)
 * [Node.js](node.js)
+* [Python][python]
 * [Ruby](ruby)
   * [Bundler](ruby/bundler)
   * [Rakefile](ruby/Rakefile)
@@ -40,8 +41,6 @@ Missing
 * [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
 * OCaml
 * Perl
-* PHP
-* Python
 * Scala
 
 Contribute

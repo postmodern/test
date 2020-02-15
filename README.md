@@ -15,6 +15,7 @@ Supports
   * [Applet](java/applet)
 * [HTML / CSS / JavaScript](html)
 * [Node.js](node.js)
+* [PHP](php)
 * [Python][python]
 * [Ruby](ruby)
   * [Bundler](ruby/bundler)

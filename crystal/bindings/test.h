@@ -4,15 +4,15 @@
 #include <unistd.h>
 #include <stdint.h>
 
-enum TestEnum
+typedef enum TestEnum
 {
 	Foo,
 	Bar
-};
+} test_enum_t;
 
 typedef int (*callback)();
 
-struct test_struct
+typedef struct test_struct
 {
 	char c;
 	int i;
@@ -28,9 +28,9 @@ struct test_struct
 	size_t size;
 	char * str;
 	callback callback;
-};
+} test_struct_t;
 
-union test_union
+typedef union test_union
 {
 	char c;
 	int i;
@@ -46,7 +46,7 @@ union test_union
 	size_t size;
 	char * str;
 	callback callback;
-};
+} test_union_t;
 
 int test();
 

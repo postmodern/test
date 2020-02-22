@@ -10,6 +10,7 @@ Supports
 * [Assembly](asm)
 * [C](c) / [C++](cpp)
 * [Crystal][crystal]
+  * [C Bindings](crystal/bindings)
 * [Go][go]
 * [Java](java)
   * [Applet](java/applet)

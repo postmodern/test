@@ -2,6 +2,7 @@
 /c/test
 /cpp/test
 /crystal/test
+/crystal/bindings/test
 /go/test
 /java/Test.class
 /ruby/gem/pkg
@@ -12,6 +13,7 @@
 Gemfile.lock
 *.o
 *.a
+*.so
 *.elf
 *.hex
 *.map

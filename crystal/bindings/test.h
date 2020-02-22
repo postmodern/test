@@ -12,7 +12,7 @@ enum TestEnum
 
 typedef int (*callback)();
 
-struct TestStruct
+struct test_struct
 {
 	char c;
 	int i;
@@ -30,7 +30,7 @@ struct TestStruct
 	callback callback;
 };
 
-union TestUnion
+union test_union
 {
 	char c;
 	int i;

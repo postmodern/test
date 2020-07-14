@@ -2,6 +2,7 @@
 /c/test
 /cpp/test
 /crystal/test
+/crystal/benchmark/benchmark
 /crystal/bindings/test
 /go/test
 /java/Test.class

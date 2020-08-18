@@ -1,7 +1,7 @@
 GO=go
 
 test: test.go
-	$(GO) test.go
+	$(GO) build test.go
 
 clean:
 	rm -f test

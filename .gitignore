@@ -4,6 +4,8 @@
 /crystal/test
 /crystal/benchmark/benchmark
 /crystal/bindings/test
+/crystal/kemal/app
+/crystal/*/lib
 /go/test
 /java/Test.class
 /ruby/gem/pkg
@@ -12,6 +14,7 @@
 /rust/crate/target
 /xslt/output.html
 Gemfile.lock
+shard.lock
 *.o
 *.a
 *.so

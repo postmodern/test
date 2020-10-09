@@ -1,5 +1,5 @@
-CC=c++
-CFLAGS=-Wall
+CC?=c++
+CFLAGS?=-Wall
 
 test: main.o test.o
 	$(CC) main.o test.o -o test

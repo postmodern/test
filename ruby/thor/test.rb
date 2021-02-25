@@ -1,4 +1,6 @@
 #!/usr/bin/env ruby
+
+require 'bundler/setup'
 require 'thor'
 
 class Test < Thor

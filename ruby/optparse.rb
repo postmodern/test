@@ -9,6 +9,10 @@ optparser = OptionParser.new do |opts|
     @test = test
   end
 
+  opts.on('-o', '--opt [OPT]', 'Sets @opt') do |opt|
+    @opt = opt
+  end
+
   opts.on('-h', '--help', 'Prints this help') do
     puts opts
     exit
@@ -17,4 +21,5 @@ end
 
 argv = optparser.parse!(ARGV)
 puts "@test = #{@test.inspect}"
+puts "@opt = #{@opt.inspect}"
 puts "argv = #{argv.inspect}"

@@ -16,4 +16,5 @@ optparser = OptionParser.new do |opts|
 end
 
 argv = optparser.parse!(ARGV)
-puts @test
+puts "@test = #{@test.inspect}"
+puts "argv = #{argv.inspect}"

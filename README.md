@@ -9,15 +9,15 @@ Supports
 
 * [Assembly](asm)
 * [C](c) / [C++](cpp)
-* [Crystal][crystal/]
+* [Crystal](crystal)
   * [C Bindings](crystal/bindings)
-* [Go][go/]
+* [Go](go)
 * [Java](java)
   * [Applet](java/applet)
 * [HTML / CSS / JavaScript](html)
 * [Node.js](node.js)
 * [PHP](php)
-* [Python][python/]
+* [Python](python)
 * [Ruby](ruby)
   * [Bundler](ruby/bundler)
   * [Rakefile](ruby/Rakefile)

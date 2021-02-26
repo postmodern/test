@@ -39,6 +39,7 @@ Missing
 * ActionScript
 * C# / Mono
 * Erlang
+* Elixir
 * Haskell
 * [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
 * OCaml

@@ -15,6 +15,7 @@
 /xslt/output.html
 Gemfile.lock
 shard.lock
+vendor
 *.o
 *.a
 *.so

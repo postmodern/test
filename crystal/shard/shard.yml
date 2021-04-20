@@ -1,0 +1,13 @@
+name: test
+version: 0.1.0
+
+authors:
+  - Postmodern <postmodern.mod3@gmail.com>
+
+targets:
+  test:
+    main: src/test.cr
+
+crystal: 1.0.0
+
+license: MIT

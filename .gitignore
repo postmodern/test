@@ -6,8 +6,10 @@
 /crystal/bindings/test
 /crystal/kemal/app
 /crystal/*/lib
+/crystal/*/bin
 /go/test
 /java/Test.class
+/nim/test
 /ruby/gem/pkg
 /rust/test
 /rust/crate/Cargo.lock

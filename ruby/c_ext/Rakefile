@@ -1,0 +1,8 @@
+require 'bundler/setup'
+
+require 'rake'
+require 'rake/extensiontask'
+
+Rake::ExtensionTask.new('test_ext') do |t|
+  t.ext_dir = 'ext/test'
+end

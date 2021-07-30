@@ -1,5 +1,11 @@
 #!/usr/bin/env ruby
 
+begin
+  require 'bundler/setup'
+rescue LoadError => error
+  abort error.message
+end
+
 require 'parslet'
 
 class Parser < Parslet::Parser

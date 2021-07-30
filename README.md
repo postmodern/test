@@ -13,7 +13,7 @@ Supports
 * [Crystal](crystal)
   * [Benchmark](crystal/benchmark)
   * [C Bindings](crystal/bindings)
-  * [kemel](crystal/kemel)
+  * [Kemel](crystal/kemel)
   * [Shard](crystal/shard)
   * [Spectator](crystal/spectator)
 * [Go](go)

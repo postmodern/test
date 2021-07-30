@@ -40,6 +40,7 @@ Supports
   * [Sinatra](ruby/sinatra)
   * [Thor](ruby/thor)
 * [Rust](rust)
+  * [Cargo](rust/cargo)
 * [Shell](shell)
   * [Bash](shell/bash)
   * [ZSH](shell/zsh)

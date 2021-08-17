@@ -7,4 +7,4 @@ test: test.exs
 benchmark: benchmark.exs
 	$(MIX) run --no-mix-exs benchmark.exs
 
-.PHONY: test
+.PHONY: test benchmark

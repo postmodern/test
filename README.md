@@ -16,6 +16,7 @@ Supports
   * [Kemel](crystal/kemel)
   * [Shard](crystal/shard)
   * [Spectator](crystal/spectator)
+* [Elixir](elixir)
 * [Go](go)
 * [HTML / CSS / JavaScript](html)
 * [Java](java)
@@ -52,7 +53,6 @@ Missing
 * ActionScript
 * C# / Mono
 * Erlang
-* Elixir
 * Haskell
 * [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
 * OCaml

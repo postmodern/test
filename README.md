@@ -31,6 +31,7 @@ Supports
 * [ ] Perl
 * [X] [PHP](php)
 * [X] [Python](python)
+  * [ ] [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [X] [Ruby](ruby)
   * [X] [Benchmark](ruby/benchmark.rb)
   * [X] [Bundler](ruby/bundler)

@@ -23,26 +23,35 @@ Supports
 * [X] [Elixir](elixir)
   * [ ] Benchmark
 * [X] [Go](go)
+  * [ ] CGo
   * [ ] Benchmark
 * [ ] Haskell
   * [ ] Benchmark
+  * [ ] FFI
 * [X] [HTML / CSS / JavaScript](html)
 * [X] [Java](java)
   * [X] [Applet](java/applet)
   * [ ] Benchmark
+  * [ ] [JNA](https://github.com/java-native-access/jna)
+  * [ ] JNI
   * [ ] [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
 * [X] [Make](make)
 * [X] [Nim](nim)
+  * [ ] [C bindings](https://livebook.manning.com/book/nim-in-action/chapter-8/62)
   * [ ] Benchmark
 * [X] [Node.js](node.js)
+  * [ ] [C++ Addon](https://nodejs.org/api/addons.html)
   * [ ] Benchmark
 * [ ] OCaml
+  * [ ] [C bindngs](https://ocaml.org/manual/intfc.html)
   * [ ] Benchmark
 * [ ] Perl
   * [ ] Benchmark
 * [X] [PHP](php)
   * [ ] Benchmark
 * [X] [Python](python)
+  * [ ] CTypes
+  * [ ] CFFI
   * [ ] Benchmark
   * [ ] [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [X] [Ruby](ruby)
@@ -62,6 +71,7 @@ Supports
 * [X] [Rust](rust)
   * [ ] Benchmark
   * [X] [Cargo](rust/cargo)
+  * [ ] [FFI](https://doc.rust-lang.org/nomicon/ffi.html)
 * [ ] Scala
   * [ ] Benchmark
 * [X] [Shell](shell)
@@ -69,6 +79,7 @@ Supports
   * [X] [ZSH](shell/zsh)
 * [X] [XSLT](xslt)
 * [X] [Zig](zig)
+  * [ ] [@cImport](https://ziglang.org/learn/overview/#integration-with-c-libraries-without-ffibindings)
   * [ ] Benchmark
 
 Contribute

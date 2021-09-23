@@ -7,55 +7,51 @@ languages and frameworks.
 Supports
 ========
 
-* [Assembly](asm)
-* [C](c)
-* [C++](cpp)
-* [Crystal](crystal)
-  * [Benchmark](crystal/benchmark)
-  * [C Bindings](crystal/bindings)
-  * [Kemel](crystal/kemel)
-  * [Shard](crystal/shard)
-  * [Spectator](crystal/spectator)
-* [Elixir](elixir)
-* [Go](go)
-* [HTML / CSS / JavaScript](html)
-* [Java](java)
-  * [Applet](java/applet)
-* [Make](make)
-* [Nim](nim)
-* [Node.js](node.js)
-* [PHP](php)
-* [Python](python)
-* [Ruby](ruby)
-  * [Benchmark](ruby/benchmark.rb)
-  * [Bundler](ruby/bundler)
-  * [C ext](ruby/c_ext)
-  * [FFI](ruby/ffi)
-  * [OptionParser](ruby/optparse.rb)
-  * [Padrino](ruby/padrino)
-  * [Parslet](ruby/parslet)
-  * [Rakefile](ruby/Rakefile)
-  * [Rack](ruby/rack)
-  * [Rails](ruby/rails)
-  * [RSpec](ruby/rspec)
-  * [Sinatra](ruby/sinatra)
-  * [Thor](ruby/thor)
-* [Rust](rust)
-  * [Cargo](rust/cargo)
-* [Shell](shell)
-  * [Bash](shell/bash)
-  * [ZSH](shell/zsh)
-* [XSLT](xslt)
-
-Missing
-=======
-
-* C# / Mono
-* Haskell
-* [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
-* OCaml
-* Perl
-* Scala
+* [X] [Assembly](asm)
+* [X] [C](c)
+* [ ] C# / Mono
+* [X] [C++](cpp)
+* [X] [Crystal](crystal)
+  * [X] [Benchmark](crystal/benchmark)
+  * [X] [C Bindings](crystal/bindings)
+  * [X] [Kemel](crystal/kemel)
+  * [X] [Shard](crystal/shard)
+  * [X] [Spectator](crystal/spectator)
+* [X] [Elixir](elixir)
+* [X] [Go](go)
+* [ ] Haskell
+* [X] [HTML / CSS / JavaScript](html)
+* [X] [Java](java)
+  * [X] [Applet](java/applet)
+  * [ ] [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
+* [X] [Make](make)
+* [X] [Nim](nim)
+* [X] [Node.js](node.js)
+* [ ] OCaml
+* [ ] Perl
+* [X] [PHP](php)
+* [X] [Python](python)
+* [X] [Ruby](ruby)
+  * [X] [Benchmark](ruby/benchmark.rb)
+  * [X] [Bundler](ruby/bundler)
+  * [X] [C ext](ruby/c_ext)
+  * [X] [FFI](ruby/ffi)
+  * [X] [OptionParser](ruby/optparse.rb)
+  * [X] [Padrino](ruby/padrino)
+  * [X] [Parslet](ruby/parslet)
+  * [X] [Rakefile](ruby/Rakefile)
+  * [X] [Rack](ruby/rack)
+  * [X] [Rails](ruby/rails)
+  * [X] [RSpec](ruby/rspec)
+  * [X] [Sinatra](ruby/sinatra)
+  * [X] [Thor](ruby/thor)
+* [X] [Rust](rust)
+  * [X] [Cargo](rust/cargo)
+* [ ] Scala
+* [X] [Shell](shell)
+  * [X] [Bash](shell/bash)
+  * [X] [ZSH](shell/zsh)
+* [X] [XSLT](xslt)
 
 Contribute
 ==========

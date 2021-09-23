@@ -50,7 +50,6 @@ Supports
 Missing
 =======
 
-* ActionScript
 * C# / Mono
 * Haskell
 * [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)

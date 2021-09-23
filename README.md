@@ -52,6 +52,7 @@ Supports
   * [X] [Bash](shell/bash)
   * [X] [ZSH](shell/zsh)
 * [X] [XSLT](xslt)
+* [X] [Zig](zig)
 
 Contribute
 ==========

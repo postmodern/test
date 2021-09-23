@@ -9,8 +9,11 @@ Supports
 
 * [X] [Assembly](asm)
 * [X] [C](c)
+  * [ ] Benchmark
 * [ ] C# / Mono
+  * [ ] Benchmark
 * [X] [C++](cpp)
+  * [ ] Benchmark
 * [X] [Crystal](crystal)
   * [X] [Benchmark](crystal/benchmark)
   * [X] [C Bindings](crystal/bindings)
@@ -18,19 +21,29 @@ Supports
   * [X] [Shard](crystal/shard)
   * [X] [Spectator](crystal/spectator)
 * [X] [Elixir](elixir)
+  * [ ] Benchmark
 * [X] [Go](go)
+  * [ ] Benchmark
 * [ ] Haskell
+  * [ ] Benchmark
 * [X] [HTML / CSS / JavaScript](html)
 * [X] [Java](java)
   * [X] [Applet](java/applet)
+  * [ ] Benchmark
   * [ ] [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
 * [X] [Make](make)
 * [X] [Nim](nim)
+  * [ ] Benchmark
 * [X] [Node.js](node.js)
+  * [ ] Benchmark
 * [ ] OCaml
+  * [ ] Benchmark
 * [ ] Perl
+  * [ ] Benchmark
 * [X] [PHP](php)
+  * [ ] Benchmark
 * [X] [Python](python)
+  * [ ] Benchmark
   * [ ] [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [X] [Ruby](ruby)
   * [X] [Benchmark](ruby/benchmark.rb)
@@ -47,13 +60,16 @@ Supports
   * [X] [Sinatra](ruby/sinatra)
   * [X] [Thor](ruby/thor)
 * [X] [Rust](rust)
+  * [ ] Benchmark
   * [X] [Cargo](rust/cargo)
 * [ ] Scala
+  * [ ] Benchmark
 * [X] [Shell](shell)
   * [X] [Bash](shell/bash)
   * [X] [ZSH](shell/zsh)
 * [X] [XSLT](xslt)
 * [X] [Zig](zig)
+  * [ ] Benchmark
 
 Contribute
 ==========

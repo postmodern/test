@@ -30,11 +30,14 @@ Supports
   * [ ] FFI
 * [X] [HTML / CSS / JavaScript](html)
 * [X] [Java](java)
+  * [ ] Ant
   * [X] [Applet](java/applet)
   * [ ] Benchmark
+  * [ ] Jetty
   * [ ] [JNA](https://github.com/java-native-access/jna)
   * [ ] JNI
   * [ ] [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
+  * [ ] Maven
 * [X] [Make](make)
 * [X] [Nim](nim)
   * [ ] [C bindings](https://livebook.manning.com/book/nim-in-action/chapter-8/62)

@@ -58,6 +58,7 @@ Supports
   * [ ] Benchmark
   * [ ] [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [X] [Ruby](ruby)
+  * [X] [ActiveRecord](ruby/activerecord)
   * [X] [Benchmark](ruby/benchmark.rb)
   * [X] [Bundler](ruby/bundler)
   * [X] [C ext](ruby/c_ext)

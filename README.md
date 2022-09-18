@@ -45,6 +45,7 @@ Supports
 * [X] [Node.js](node.js)
   * [ ] [C++ Addon](https://nodejs.org/api/addons.html)
   * [ ] Benchmark
+* [X] [TypeScript](typescript)
 * [ ] OCaml
   * [ ] [C bindngs](https://ocaml.org/manual/intfc.html)
   * [ ] Benchmark

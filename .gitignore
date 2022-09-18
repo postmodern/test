@@ -14,8 +14,12 @@
 /rust/test
 /rust/crate/Cargo.lock
 /rust/crate/target
+/typescript/*.js
 /xslt/output.html
 Gemfile.lock
+node_modules
+package-lock.json
+package.json
 shard.lock
 tmp
 vendor

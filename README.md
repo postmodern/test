@@ -37,6 +37,7 @@ Supports
   * [ ] [JNA](https://github.com/java-native-access/jna)
   * [ ] JNI
   * [ ] [JNLP](http://docs.oracle.com/javase/tutorial/deployment/applet/deployingApplet.html)
+  * [X] [JSP](java/jsp)
   * [ ] Maven
 * [X] [Make](make)
 * [X] [Nim](nim)

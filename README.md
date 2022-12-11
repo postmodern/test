@@ -21,6 +21,7 @@ Supports
   * [X] [Shard](crystal/shard)
   * [X] [Spectator](crystal/spectator)
 * [X] [Docker](docker)
+  * [X] [Alpine](docker/alpine)
   * [X] [Fedora](docker/fedora)
 * [X] [Elixir](elixir)
   * [ ] Benchmark

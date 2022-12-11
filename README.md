@@ -20,6 +20,7 @@ Supports
   * [X] [Kemel](crystal/kemel)
   * [X] [Shard](crystal/shard)
   * [X] [Spectator](crystal/spectator)
+* [X] [Docker](docker)
 * [X] [Elixir](elixir)
   * [ ] Benchmark
 * [X] [Go](go)

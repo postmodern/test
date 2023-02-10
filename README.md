@@ -76,6 +76,7 @@ Supports
   * [X] [Rack](ruby/rack)
   * [X] [Rails](ruby/rails)
   * [X] [RSpec](ruby/rspec)
+  * [X] [Rubocop](ruby/rubocop)
   * [X] [Sinatra](ruby/sinatra)
   * [X] [Thor](ruby/thor)
 * [X] [Rust](rust)

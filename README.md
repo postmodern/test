@@ -58,9 +58,10 @@ Supports
 * [X] [PHP](php)
   * [ ] Benchmark
 * [X] [Python](python)
+  * [ ] Benchmark
   * [ ] CTypes
   * [ ] CFFI
-  * [ ] Benchmark
+  * [X] [Django](python/django)
   * [ ] [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [X] [Ruby](ruby)
   * [X] [ActiveRecord](ruby/activerecord)

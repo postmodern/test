@@ -2,6 +2,7 @@ AS=as
 LD=ld
 LD_FORMAT=elf_i386
 DEBUG=-gstabs
+OBJDUMP=objdump
 GDB=gdb
 
 test: test.o
@@ -16,4 +17,7 @@ clean:
 debug: test
 	$(GDB) test
 
-.PHONY: clean debug
+objdump: test
+	$(OBJDUMP) -M i386 -d test
+
+.PHONY: clean debug objdump

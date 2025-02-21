@@ -1,7 +1,7 @@
 AS=as
 LD=ld
 LD_FORMAT=elf_x86_64
-DEBUG=-ggdb
+DEBUG=-gstabs
 GDB=gdb
 
 test: test.o

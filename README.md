@@ -12,10 +12,30 @@ Supports
     * [X] [Linux](asm/x86/linux)
       * [X] [NASM](asm/x86/linux/nasm)
       * [X] [YASM](asm/x86/linux/yasm)
+    * [ ] FreeBSD
+    * [ ] NetBSD
+    * [ ] OpenBSD
+    * [ ] macOS
   * [X] [x86-64](asm/x86-64)
     * [X] [Linux](asm/x86-64/linux)
       * [X] [NASM](asm/x86-64/linux/nasm)
       * [X] [YASM](asm/x86-64/linux/yasm)
+    * [ ] FreeBSD
+    * [ ] NetBSD
+    * [ ] OpenBSD
+    * [ ] macOS
+  * [ ] ARM32
+    * [ ] Linux
+    * [ ] FreeBSD
+    * [ ] NetBSD
+    * [ ] OpenBSD
+    * [ ] macOS
+  * [ ] ARM64
+    * [ ] Linux
+    * [ ] FreeBSD
+    * [ ] NetBSD
+    * [ ] OpenBSD
+    * [ ] macOS
 * [X] [C](c)
   * [ ] Benchmark
 * [ ] C# / Mono

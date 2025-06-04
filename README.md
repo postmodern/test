@@ -8,6 +8,14 @@ Supports
 ========
 
 * [X] [Assembly](asm)
+  * [X] [x86](asm/x86)
+    * [X] [Linux](asm/x86/linux)
+      * [X] [NASM](asm/x86/linux/nasm)
+      * [X] [YASM](asm/x86/linux/yasm)
+  * [X] [x86-64](asm/x86-64)
+    * [X] [Linux](asm/x86-64/linux)
+      * [X] [NASM](asm/x86-64/linux/nasm)
+      * [X] [YASM](asm/x86-64/linux/yasm)
 * [X] [C](c)
   * [ ] Benchmark
 * [ ] C# / Mono

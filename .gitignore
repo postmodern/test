@@ -1,4 +1,4 @@
-/asm/test
+/asm/**/test
 /c/test
 /cpp/test
 /crystal/test

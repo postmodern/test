@@ -94,6 +94,7 @@ Supports
 * [X] [Ruby](ruby)
   * [X] [ActiveRecord](ruby/activerecord)
   * [X] [Benchmark](ruby/benchmark.rb)
+  * [X] [Benchmark (IPS)](ruby/benchmark_ips.rb)
   * [X] [Bundler](ruby/bundler)
   * [X] [C ext](ruby/c_ext)
   * [X] [FFI](ruby/ffi)

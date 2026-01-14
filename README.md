@@ -116,6 +116,10 @@ Supports
 * [X] [Shell](shell)
   * [X] [Bash](shell/bash)
   * [X] [ZSH](shell/zsh)
+* [ ] SQL
+  * [ ] SQLite3
+  * [ ] MySQL
+  * [ ] PostgreSQL
 * [X] [XSLT](xslt)
 * [X] [Zig](zig)
   * [ ] [@cImport](https://ziglang.org/learn/overview/#integration-with-c-libraries-without-ffibindings)
